@@ -1,0 +1,14 @@
+# IT IS A SINGLE LINE COMMENT
+''' 
+IT IS A MULTILINE COMMENT
+WE CAN WRITE MULTIPLE LINES IN IT.
+'''
+
+
+#how to print multiple lines in python
+print('''
+      TWINLE TWINKLE LITLE STAR
+      HOW I WONDER WHAT YOU ARE
+      UP ABOVE THE WORLD SO HIGH
+      LIKE A DIAMOND IN THE SKY
+      ''')
