@@ -24,7 +24,7 @@ print(c)
 # d=(22<=23)
 # d=(22==23)
 d=(22!=23)
-print(d)
+print(d)   #it will give the boolean value
 
 # Logical operators
 bool1=True

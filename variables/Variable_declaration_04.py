@@ -5,7 +5,7 @@ b=33.75
 # Diffrent methods to declare a string on python
 c="hello"
 d= True
-e= None
+e= None  #it is used to declare a variable with no value
 
 # c='hello'
 
@@ -16,7 +16,7 @@ e= None
 # 1
 # """
 
-# c=''' 
+# c='''      #it gives same outpurt as above
 # hello
 # aman
 # '''
