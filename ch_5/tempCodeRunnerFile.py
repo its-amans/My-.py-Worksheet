@@ -1,0 +1,1 @@
+s=s.intersection({1,3,4,7})
